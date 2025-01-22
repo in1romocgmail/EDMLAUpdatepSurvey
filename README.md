@@ -1,47 +1,74 @@
 # EDMLAUpdatepSurvey
-Datos utilizados en el artículo "Romero, C., & Ventura, S. (2020). Educational data mining and learning analytics: An updated survey. Wiley interdisciplinary reviews: Data mining and knowledge discovery, 10(3), e1355." 
- https://doi.org/10.1002/widm.1355
 
-## Metadatos
-Lista de publicaciones referenciadas en un artículo científico. 
-Los metadatos presentes en el dataset son los siguientes:
+Data used in the paper "Romero, C., & Ventura, S. (2020). Educational data mining and learning analytics: An updated survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(3), e1355." 
+https://doi.org/10.1002/widm.1355
 
-### Autores: 
- Lista de autores de cada publicación.
+## Metadata
+List of publications referenced in the paper. 
+The metadata present in the dataset are as follows:
 
-###  ID de Autor(es): 
-Identificadores únicos de los autores en la base de datos de Scopus.
+### Authors: 
+List of authors for each publication.
 
-###  Título: 
-Título de la publicación.
+### Author ID(s): 
+Unique identifiers of the authors in the Scopus database.
 
-### Año: 
-Año de publicación.
+### Title: 
+Title of the publication.
 
-### Título de la Fuente: 
-Nombre de la revista, libro o conferencia donde se publicó.
+### Year: 
+Year of publication.
 
-###  Volumen: 
-Volumen de la publicación (si aplica).
+### Source Title: 
+Name of the journal, book, or conference where the publication appeared.
 
-### Número: 
-Número de edición (si aplica).
+### Volume: 
+Volume of the publication (if applicable).
 
-### Número de Artículo: 
-Identificador único de artículos (si aplica).
+### Issue: 
+Edition number (if applicable).
 
-### Página de Inicio: 
-Página inicial de la publicación.
+### Article Number: 
+Unique identifier of articles (if applicable).
 
-### Página Final: 
-Página final de la publicación.
+### Start Page: 
+Initial page of the publication.
 
-### Número de Páginas: 
-Cantidad de páginas de la publicación (si aplica).
+### End Page: 
+Final page of the publication.
 
-### Citas: 
-Número de veces que la publicación ha sido citada.
+### Number of Pages: 
+Number of pages of the publication (if applicable).
+
+### Citations: 
+Number of times the publication has been cited.
 
 ### DOI: 
-Identificador Digital del Objeto (si está disponible).
-EID: Identificador único de Scopus.
+Digital Object Identifier (if available).
+
+### EID: 
+Unique Scopus Identifier.
+
+## License
+
+ODC Attribution License (ODC-By)
+
+## Reference
+
+"Romero, C., & Ventura, S. (2020). Educational data mining and learning analytics: An updated survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(3), e1355." 
+https://doi.org/10.1002/widm.1355
+
+   ```
+@article{romero2020educational,
+  title={Educational data mining and learning analytics: An updated survey},
+  author={Romero, Cristobal and Ventura, Sebastian},
+  journal={Wiley interdisciplinary reviews: Data mining and knowledge discovery},
+  volume={10},
+  number={3},
+  pages={e1355},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+   ```
+
+
