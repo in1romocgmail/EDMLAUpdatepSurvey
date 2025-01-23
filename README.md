@@ -3,6 +3,13 @@
 Data used in the paper "Romero, C., & Ventura, S. (2020). Educational data mining and learning analytics: An updated survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(3), e1355." 
 https://doi.org/10.1002/widm.1355
 
+# Format
+Comma-separated values (CSV)
+
+# Keywords
+Educational Data Mining, Data Mining on Education, Data-Driven Decision-Making in
+Education, Big Data in Education, Educational Data Science
+
 ## Metadata
 List of publications referenced in the paper. 
 The metadata present in the dataset are as follows:
